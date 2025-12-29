@@ -19,7 +19,7 @@
 2. `notebooks/00_narrative_gmm_turning_points.ipynb` を上から実行
 
 （Colabバッジは、アップ後にURLを書き換えてください）
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<USER>/<REPO>/blob/main/notebooks/00_narrative_gmm_turning_points.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mokafe/ginga-narrative-gmm/blob/main/notebooks/00_narrative_gmm_turning_points.ipynb)
 
 ---
 
