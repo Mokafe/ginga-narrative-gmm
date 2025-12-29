@@ -18,7 +18,7 @@
 1. GitHubからこのrepoをColabに開く  
 2. `notebooks/00_narrative_gmm_turning_points.ipynb` を上から実行
 
-（Colabバッジは、アップ後にURLを書き換えてください）
+（「Open in Colab」バッジをクリックすると、ブラウザ上で直接コードを実行できます。環境構築は不要です）
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mokafe/ginga-narrative-gmm/blob/main/notebooks/00_narrative_gmm_turning_points.ipynb)
 
 ---
