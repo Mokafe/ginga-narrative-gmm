@@ -13,7 +13,9 @@
 
 ---
 
-## Paper（論文PDF）
+## Paper（論文PDF）：物語イベントの状態遷移解析：半教師あり GMM を用いた転調点抽出
+
+-　——宮沢賢治『銀河鉄道の夜』を例に
 
 - Paper (PDF): `docs/paper/paper.pdf`
 - Step log（実行手順・ログ）: `docs/ginga_step_log_script.md`
